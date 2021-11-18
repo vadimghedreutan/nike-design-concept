@@ -423,6 +423,7 @@ body {
   padding: 1rem 1.5rem;
   text-align: center;
   text-decoration: none;
+  color: rgba(var(--clr-black), 1);
   display: inline-block;
   cursor: pointer;
   border-radius: var(--br-full);
